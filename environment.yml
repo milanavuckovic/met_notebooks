@@ -10,3 +10,4 @@ dependencies:
   - bokeh
   - dask
   - cdsapi
+  - metview
